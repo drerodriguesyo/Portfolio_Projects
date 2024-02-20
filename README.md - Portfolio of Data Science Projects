@@ -1,0 +1,37 @@
+### Introduction
+Welcome to my portfolio of data science projects! This repository showcases a collection of projects that demonstrate my expertise and skills in data analysis, machine learning, and data-driven decision-making. Each project is designed to address real-world challenges and provide actionable insights to drive business value.
+
+### Projects Included
+1. **Salifort Motor Employee Turnover Prediction**
+   - Objective: Predict employee turnover to identify factors influencing attrition and propose retention strategies.
+   - Techniques Used: Exploratory Data Analysis (EDA), Data Cleaning, Machine Learning (Logistic Regression, Decision Tree, Random Forest, XGBoost), Feature Engineering, Model Evaluation.
+   - Outcome: Champion model achieved 97% AUC score, providing valuable insights for the HR department.
+
+2. **Waze User Churn Prediction**
+   - Objective: Predict user churn to improve user retention and enhance user experience on the Waze navigation app.
+   - Techniques Used: Data Preprocessing, Feature Engineering, Machine Learning (Logistic Regression, Random Forest, Gradient Boosting).
+   - Outcome: Developed a predictive model with 85% accuracy to identify potential churners and implement targeted retention strategies.
+
+### Repository Structure
+- **Notebooks:** Contains Jupyter Notebooks for each project, detailing the entire data science workflow from data exploration to model evaluation.
+- **Datasets:** Includes the datasets used in each project for reproducibility and transparency.
+- **Reports:** Provides detailed project reports summarizing the problem statement, methodology, findings, and recommendations.
+- **Visualizations:** Contains visualizations generated during the EDA process to better understand data distributions and relationships.
+
+### Usage
+1. **Clone the Repository:** Clone this repository to your local machine using the following command:
+   ```
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. **Explore the Projects:** Navigate to the respective project folders to access Jupyter Notebooks, datasets, and project reports.
+
+3. **Run the Notebooks:** Open the Jupyter Notebooks to explore the data science workflow, execute code cells, and visualize the results.
+
+### Acknowledgments
+Special thanks to the instructors, mentors, and online resources that have contributed to my learning journey in data science. Your guidance and support have been invaluable in the development of these projects.
+
+### Contact Information
+For inquiries, collaborations, or feedback, feel free to reach out to me:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/andré-rodrigues98)
