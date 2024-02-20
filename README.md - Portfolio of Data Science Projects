@@ -19,14 +19,9 @@ Welcome to my portfolio of data science projects! This repository showcases a co
 - **Visualizations:** Contains visualizations generated during the EDA process to better understand data distributions and relationships.
 
 ### Usage
-1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/your-repository.git
-   ```
+1. **Explore the Projects:** Navigate to the respective project folders to access Jupyter Notebooks, datasets, and project reports.
 
-2. **Explore the Projects:** Navigate to the respective project folders to access Jupyter Notebooks, datasets, and project reports.
-
-3. **Run the Notebooks:** Open the Jupyter Notebooks to explore the data science workflow, execute code cells, and visualize the results.
+2  **Run the Notebooks:** Open the Jupyter Notebooks to explore the data science workflow, execute code cells, and visualize the results.
 
 ### Acknowledgments
 Special thanks to the instructors, mentors, and online resources that have contributed to my learning journey in data science. Your guidance and support have been invaluable in the development of these projects.
