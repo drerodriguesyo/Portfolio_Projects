@@ -7,7 +7,12 @@ Welcome to my portfolio of data science projects! This repository showcases a co
    - Techniques Used: Exploratory Data Analysis (EDA), Data Cleaning, Machine Learning (Logistic Regression, Decision Tree, Random Forest, XGBoost), Feature Engineering, Model Evaluation.
    - Outcome: Champion model achieved 97% AUC score, providing valuable insights for the HR department.
 
-2. **Waze User Churn Prediction**
+2. **NYC TLC Project - Fare and Tip Prediction**
+   - **Objective:** Build machine learning models to predict taxi fares and customer tipping behavior for the New York City Taxi and Limousine Commission (TLC).
+   - **Techniques Used:** Data Wrangling, Exploratory Data Analysis (EDA), Linear Regression, Random Forest, XGBoost.
+   - **Outcome:** Developed models to estimate taxi fares and predict generous tipping behavior, considering ethical implications and potential impact on driver-customer interactions.
+
+3. **Waze User Churn Prediction**
    - Objective: Predict user churn to improve user retention and enhance user experience on the Waze navigation app.
    - Techniques Used: Data Preprocessing, Feature Engineering, Machine Learning (Logistic Regression, Random Forest, Gradient Boosting).
    - Outcome: Developed a predictive model with 85% accuracy to identify potential churners and implement targeted retention strategies.
@@ -21,7 +26,7 @@ Welcome to my portfolio of data science projects! This repository showcases a co
 ### Usage
 1. **Explore the Projects:** Navigate to the respective project folders to access Jupyter Notebooks, datasets, and project reports.
 
-2  **Run the Notebooks:** Open the Jupyter Notebooks to explore the data science workflow, execute code cells, and visualize the results.
+2  **Run the Notebooks:** Open the Jupyter Notebooks to explore the data science workflow and visualize the results.
 
 ### Acknowledgments
 Special thanks to the instructors, mentors, and online resources that have contributed to my learning journey in data science. Your guidance and support have been invaluable in the development of these projects.
